@@ -1,8 +1,8 @@
 # Devan Quinn
 
 ## My Projects:
-### 1. [Sorting Visualizer](https://eloquent-dubinsky-a90747.netlify.app/)
-[![Screenshot](https://user-images.githubusercontent.com/62554326/110900653-178fae00-82d1-11eb-8605-41a0c566aef3.png "Sorting Visualizer Screenshot")](https://eloquent-dubinsky-a90747.netlify.app/)
+### 1. [Sorting Visualizer](https://eloquent-dubinsky-a90747.netlify.app/){:target="_blank"}
+[![Screenshot](https://user-images.githubusercontent.com/62554326/110900653-178fae00-82d1-11eb-8605-41a0c566aef3.png "Sorting Visualizer Screenshot")](https://eloquent-dubinsky-a90747.netlify.app/){:target="_blank"}
 
 ### 2. [MyLinked.io [IN DEVELOPMENT]](https://mylinkedio.herokuapp.com/)
 
