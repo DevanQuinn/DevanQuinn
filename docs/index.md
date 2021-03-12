@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Hi! I'm Devan Quinn 🙍🏻‍♂️
 
-You can use the [editor on GitHub](https://github.com/DevanQuinn/DevanQuinn/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## My Projects:
+### 1. [Sorting Visualizer 📊](https://eloquent-dubinsky-a90747.netlify.app/)
+[![Screenshot](https://user-images.githubusercontent.com/62554326/110900653-178fae00-82d1-11eb-8605-41a0c566aef3.png "Sorting Visualizer Screenshot")](https://eloquent-dubinsky-a90747.netlify.app/)
+___
+### 2. [MyLinked.io 👋 [IN DEVELOPMENT]](https://mylinkedio.herokuapp.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<!--
+**DevanQuinn/DevanQuinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are some ideas to get you started:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DevanQuinn/DevanQuinn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
