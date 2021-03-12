@@ -1,4 +1,8 @@
-### Hi there 👋
+# Devan Quinn
+
+## My Projects:
+### 1. [Sorting Visualizer](https://eloquent-dubinsky-a90747.netlify.app/)
+### 2. [MyLinked.io [IN DEVELOPMENT]](https://mylinkedio.herokuapp.com/)
 
 <!--
 **DevanQuinn/DevanQuinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
