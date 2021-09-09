@@ -1,15 +1,28 @@
-# Devan Quinn 🙍🏻‍♂️
+# Devan Quinn 🙍🏻‍♂️ 
+### **I am a 17 year-old from New Jersey who aspires to be a professional web developer. Below are some projects that I have built:**
 
-## My Projects:
-### 1. [Sorting Visualizer 📊](https://eloquent-dubinsky-a90747.netlify.app/) | [(Repo)](https://github.com/DevanQuinn/sort-visualizer)
-[![Screenshot](https://user-images.githubusercontent.com/62554326/110900653-178fae00-82d1-11eb-8605-41a0c566aef3.png "Sorting Visualizer Screenshot")](https://eloquent-dubinsky-a90747.netlify.app/)
+### 1. [Sorting Visualizer 📊](https://eloquent-dubinsky-a90747.netlify.app/) 
+Generate an array and visualize three different sorting algorithms in real time. Use the sliders in the controls to adjust array size and sorting speed. Made with React and Material UI.
+[(Repo)](https://github.com/DevanQuinn/sort-visualizer)
+![Screenshot](https://i.imgur.com/BogpbVb.png) 
 
-### 2. [Weather Display ⛅️](https://devprojects-weather-devanquinn.vercel.app/) | [(Repo)](https://github.com/DevanQuinn/devprojects-weather)
+
+### 2. [Weather Display ⛅️](https://devprojects-weather-devanquinn.vercel.app/)
+Fetch the weekly forecast for any location using the weatherbit.io API. Also uses Geolocation API to get current location. Made with React. [(Repo)](https://github.com/DevanQuinn/devprojects-weather)
 [![Screenshot](https://user-images.githubusercontent.com/62554326/111661009-066d0280-87e5-11eb-93c4-d41c0c763965.png "Weather Display Screenshot")](https://devprojects-weather-devanquinn.vercel.app/)
 
-### 3.[React Keep 🗒](https://react-keep.vercel.app/) | [(Repo)](https://github.com/DevanQuinn/react-keep)
 
-### 4. [MyLinked.io 👋 [IN DEVELOPMENT]](https://mylinkedio.herokuapp.com/)
+### 3.[React Keep 🗒](https://react-keep.vercel.app/)
+Google Keep clone. Create, edit, and delete notes that are stored in a Firebase realtime database. Made with React and Material UI. [(Repo)](https://github.com/DevanQuinn/react-keep)
+[![Screenshot](https://i.imgur.com/SYEJINV.png "React Keep Screenshot")](https://react-keep.vercel.app/)
+
+### 4. [MyLinked.io 👋](https://mylinkedio.herokuapp.com/)
+Create a hub for all your social medias. Create a profile and use the dashboard to create links and display them using your own page. Made with Vanilla JS, MongoDB, and NodeJS. [(Repo)](https://github.com/DevanQuinn/Socialz)
+[![Screenshot](https://i.imgur.com/jSl98fN.png "MyLinked Screenshot")](https://mylinkedio.herokuapp.com/)
+
+### 5. [Mock Clothing Store 👔](https://crimson-shop.vercel.app/)
+Browse through mock clothing items and even complete a mock purchase. Cart functionality uses Snipcart API. Made with NextJS. [(Repo)](https://github.com/DevanQuinn/Crimson-shop)
+[![Screenshot](https://i.imgur.com/x7Ja1lW.png "Clothing Store Screenshot")](https://crimson-shop.vercel.app/)
 
 
 <!--
