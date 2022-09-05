@@ -1,5 +1,5 @@
 # Devan Quinn 🙍🏻‍♂️ 
-### **I am a 17 year-old from New Jersey who aspires to be a professional web developer. Below are some projects that I have built:**
+### **I am a 18 year-old from New Jersey who aspires to be a professional web developer. Below are some projects that I have built:**
 
 ### 1. [Sorting Visualizer 📊](https://eloquent-dubinsky-a90747.netlify.app/) 
 Generate an array and visualize three different sorting algorithms in real time. Use the sliders in the controls to adjust array size and sorting speed. Made with React and Material UI.
