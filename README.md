@@ -1,5 +1,5 @@
 # Devan Quinn 🙍🏻‍♂️ 
-### **I am a 20 year-old studying CS and Econ at Purdue! Below are some projects that I have built:**
+### **I am a 21 year-old studying CS and Econ at Purdue! Below are some projects that I have built:**
 
 ### 1. [StudySync 📚](https://studysync-3fbd7.web.app/)
 Find all your study tools in one place! Start focus sessions and track studying progress, all with friends! Made in my Software Engineering group at Purdue with React, Firebase, and MUI.
